@@ -1,0 +1,7 @@
+body{background-color: #DCFD23;}
+h1{font-family: Helvetica; font-size: 45px; color: #FD23CC; text-align: center;}
+p{font-family: Helvetica; font-size: 26px; color: green;}
+a{font-family: Helvetica; font-size: 26px; color: green; text-decoration: none;}
+a:hover{color: #23FAFD; font-family: Times New Roman;}
+a:active{color: white;}
+img{border-width:10px; border-style: dotted; border-color: red;}
